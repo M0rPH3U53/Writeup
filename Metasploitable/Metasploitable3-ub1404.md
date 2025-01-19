@@ -351,7 +351,7 @@ vagrant:vagrant:18564:0:9999
 
 &nbsp;
 
-Cred trouver
+Flags
 
 | **User** | **Password** |
 | --- | --- |
