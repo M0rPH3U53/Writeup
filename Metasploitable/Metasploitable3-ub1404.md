@@ -338,7 +338,7 @@ Cost 1 (iteration count) is 5000 for all loaded hashes
 Proceeding with single, rules:Single
 Press 'q' or Ctrl-C to abort, almost any other key for status
 vagrant          (vagrant)     
-1g 0:00:00:00 DONE 1/1 (2025-01-10 13:22) 20.00g/s 160.0p/s 160.0c/s 160.0C/s vagrant..vagran
+1g 0:00:00:00 DONE (2025-01-10 13:22) 20.00g/s 160.0p/s 160.0c/s 160.0C/s vagrant..vagran
 Use the "--show" option to display all of the cracked passwords reliably
 Session completed. 
 ┌─[parrot@parrot]─[~]
