@@ -36,9 +36,9 @@ Discovered open port 6697/tcp on 192.168.56.107
 
 Intéressant
 
-![Capture du 2025-01-10 01-09-38.png](../../_resources/Capture%20du%202025-01-10%2001-09-38.png)
+![Capture du 2025-01-10 01-09-38.png](Capture%20du%202025-01-10%2001-09-38.png)
 
-![Capture du 2025-01-10 01-09-52.png](../../_resources/Capture%20du%202025-01-10%2001-09-52.png)
+![Capture du 2025-01-10 01-09-52.png](Capture%20du%202025-01-10%2001-09-52.png)
 
 **<span style="color: #dddddd;">🔥</span> Wapiti**
 
