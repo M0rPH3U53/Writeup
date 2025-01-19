@@ -1,6 +1,6 @@
 # Metasploitable2-linux
 
-</ins>1.Énumération</ins>
+1.Énumération
 
 J’ai choisi d’écrire un script bash pour accélérer la découverte des 65535 port en scan furtif  avec la combinaison de `masscan` & `nmap`
 
