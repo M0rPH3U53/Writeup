@@ -37,19 +37,22 @@ Scanning 5 services on 192.168.56.52
 
 &nbsp;
 
-**🐧 Enum4linux**
+**🐧 Enum4linux**  
 &nbsp;
+
 Users
-```
-┌─[parrot@parrot]─[~]
+
+```  
+┌─[parrot@parrot]─[~]  
 └──╼ $enum4linux 192.168.56.52
 
- ==================( Users on 192.168.56.52 via RID cycling (RIDS: 500-550,1000-1050) )==================
+&nbsp;==================( Users on 192.168.56.52 via RID cycling (RIDS: 500-550,1000-1050) )==================
 
-S-1-22-1-1000 Unix User\kbadmin (Local User)
+S-1-22-1-1000 Unix User\kbadmin (Local User)  
 ```
 
 &nbsp;
+
 
 **🖥️ NetExec**
 
