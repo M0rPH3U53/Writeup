@@ -1,3 +1,3 @@
 # Writeup VM
 
-Writeup des VM pwn
+💀 Writeup des VM pwn
