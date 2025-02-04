@@ -75,7 +75,8 @@ FTP         192.168.56.104  21     192.168.56.104   -rw-rw-r--   1 root     www-
 
 **<span style="color: #dddddd;">💣</span> Gobuster**
 
-**![bee-app.png](../../_resources/bee-app.png)**
+![bee-app](https://github.com/user-attachments/assets/70464229-50a5-410f-abb7-63a7d3f48913)
+
 
 &nbsp;
 
@@ -143,13 +144,15 @@ Finished
 
 Le répertoire `passwords` a l’air intéressant
 
-![dir_passwords.png](../../_resources/dir_passwords.png)
+![dir_passwords](https://github.com/user-attachments/assets/1da44774-8994-4a9e-bc5c-3cf8e9c87bdc)
+
 
 &nbsp;
 
 Allons voir le fichier `heroes.xml`
 
-![heroes.png](../../_resources/heroes.png)
+![heroes](https://github.com/user-attachments/assets/abccd58c-01dc-4133-b1fe-2124c939d76b)
+
 
 &nbsp;
 
@@ -237,7 +240,7 @@ $drupal_hash_salt = '_QQd2KF0iUznXiEWMMUhQ7wboIsgdbkt_wSy4KjCkqs';
 
 On peut donc se connecter a `phpmyadmin` en tant que `root`
 
-![phpmyadmin.png](../../_resources/phpmyadmin.png)
+![phpmyadmin](https://github.com/user-attachments/assets/29b2fe14-2dc9-4c26-a6ee-debd8fe6f350)
 
 &nbsp;
 
