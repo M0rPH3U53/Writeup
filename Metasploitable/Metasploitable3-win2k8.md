@@ -2,41 +2,6 @@
 
 <ins>1.Énumération</ins>
 
-J’ai choisi d’écrire un script bash pour accélérer la découverte des 65535 port en scan furtif  avec la combinaison de `masscan` & `nmap`
-
-```
-#!/bin/bash
-
-# Reseau interne Virtualbox
-gateway='192.168.56.1'
-mac='0a:00:27:00:00:00'
-
-mass='res_ports.txt'
-port='ports.txt'
-
-read -p 'Entrer une IP: ' IP
-read -p 'Entrer un rate: ' rate
-
-# Masscan scan par defaut en mode furtif
-masscan $IP -p- --rate $rate  --router-ip $gateway --router-mac $mac -oG $mass
-
-if [ ! -s "$mass" ]; then
-    echo "Aucun port ouvert"
-    exit 1
-else
-    grep "open" $mass | awk '{print $7}' | cut -d'/' -f1 > $port
-fi
-
-# Scan furtif , et crée un rapport en html
-nmap -sS -A -sC -p $(cat $port | tr '\n' ',') --script vuln -v -oX $IP-tcp.xml $IP
-
-xsltproc $IP-tcp.xml > $IP-tcp.html
-
-rm $port $mass
-```
-
-&nbsp;
-
 **👁️ Nmap & Masscan**
 
 ```
