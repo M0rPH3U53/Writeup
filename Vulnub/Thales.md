@@ -220,7 +220,7 @@ root:ghost2000:18854:0:99999:7:::
 
 &nbsp;
 
-Cred final trouver
+Cred trouver
 
 | User | Password |
 | --- | --- |
