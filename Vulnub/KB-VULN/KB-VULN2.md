@@ -40,8 +40,6 @@ Scanning 5 services on 192.168.56.52
 **🐧 Enum4linux**  
 &nbsp;
 
-Users
-
 ```  
 ┌─[parrot@parrot]─[~]  
 └──╼ $enum4linux 192.168.56.52
