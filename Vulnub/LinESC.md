@@ -1,4 +1,4 @@
-1.  <ins>Énumération</ins>
+1.<ins>Énumération</ins>
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
