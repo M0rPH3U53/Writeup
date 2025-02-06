@@ -2,7 +2,7 @@
 
 <ins>1.Énumération</ins>
 
-**👁️ Nmap & Masscan**
+**👁️ Massap**
 
 ```
 ┌─[parrot@windows]─[~/Desktop]
