@@ -200,13 +200,13 @@ Recherche de `user` & `password`
 
 Panel d’authentification
 
-![Capture du 2025-01-17 22-01-47.png](../../_resources/Capture%20du%202025-01-17%2022-01-47.png)
+![Capture du 2025-01-17 22-01-47](https://github.com/user-attachments/assets/ee875ac3-0fe8-4270-851a-d14cc0c2c17d)
 
 &nbsp;
 
 Upload de fichier
 
-![Capture du 2025-01-17 22-02-30.png](../../_resources/Capture%20du%202025-01-17%2022-02-30.png)
+![Capture du 2025-01-17 22-02-30](https://github.com/user-attachments/assets/8fb6833c-a7ca-4145-992b-02b228e165a6)
 
 &nbsp;
 
@@ -227,11 +227,11 @@ Saved as: rev.php
 
 Upload du reverse-shell
 
-![Capture du 2025-01-17 22-14-22.png](../../_resources/Capture%20du%202025-01-17%2022-14-22.png)
+![Capture du 2025-01-17 22-14-22](https://github.com/user-attachments/assets/4f9bdaae-c0e3-4f72-8a98-857b02dfc03f)
 
 Exécution du reverse-shell
 
-![Capture du 2025-01-17 22-15-32.png](../../_resources/Capture%20du%202025-01-17%2022-15-32.png)
+![Capture du 2025-01-17 22-15-32](https://github.com/user-attachments/assets/b7a19878-2a24-43f2-a5d2-ddcde3bf6418)
 
 &nbsp;
 
