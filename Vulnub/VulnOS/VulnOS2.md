@@ -33,7 +33,7 @@ by M0rPH3U53
 
 &nbsp;
 
-<ins>2.Exploitation</ins>
+2.Exploitation
 
 **<span style="color: #dddddd;">💥</span> Metasploit**
 
