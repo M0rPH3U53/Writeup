@@ -1,6 +1,6 @@
 # Metasploitable3-win2k8
 
-<ins>1.Énumération</ins>
+1.Énumération
 
 **👁️ Massap**
 
