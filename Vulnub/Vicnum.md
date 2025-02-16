@@ -1,3 +1,4 @@
+# Vicnum
 1.Énumération
 
 **<span style="color: #dddddd;">👁️</span> Massap**
@@ -345,7 +346,8 @@ Table: user
 
 Crack des hash `mysql` de l’utilisateur `root`
 
-![Capture du 2025-02-16 11-45-28.png](../../_resources/Capture%20du%202025-02-16%2011-45-28.png)
+![Capture du 2025-02-16 11-45-28](https://github.com/user-attachments/assets/88323ddf-b592-493f-945e-a9dd2982d2ab)
+
 
 &nbsp;
 
