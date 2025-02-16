@@ -39,7 +39,8 @@ by M0rPH3U53
 
 Allons voir ce qu’on trouve sur la page web
 
-![Capture du 2025-02-04 21-23-24.png](../../_resources/Capture%20du%202025-02-04%2021-23-24.png)
+![Capture du 2025-02-04 21-23-24](https://github.com/user-attachments/assets/e3812316-2b3a-41c6-81d0-5e199c2f4fd9)
+
 
 ```
 ┌─[parrot@parrot]─[~]
@@ -54,7 +55,8 @@ Allons voir ce qu’on trouve sur la page web
 
 Allons déchiffrer `l'utilisateur` & `mot de passe` trouver précédemment
 
-![decrypt_rot47.png](../../_resources/decrypt_rot47.png)
+![decrypt_rot47](https://github.com/user-attachments/assets/361617c8-f81c-4cc7-83f1-3c8dc6aeb552)
+
 
 ```
 D92:=6?5C2:shailendra
@@ -90,7 +92,8 @@ uid=1001(shailendra) gid=1001(shailendra) groups=1001(shailendra),991(docker) co
 
 Allons voir sur `GTFObins` si docker peut nous être utiles
 
-**![Capture du 2025-02-08 12-28-35.png](../../_resources/Capture%20du%202025-02-08%2012-28-35.png)**
+![Capture du 2025-02-08 12-28-35](https://github.com/user-attachments/assets/950121af-0aab-49df-b2b6-a6ce686c41dc)
+
 
 &nbsp;
 
