@@ -87,7 +87,7 @@ Finished
 
 Allons voir ce qu’est `mini.php`
 
-![Capture du 2025-02-16 21-14-03.png](../../_resources/Capture%20du%202025-02-16%2021-14-03.png)
+![Capture du 2025-02-16 21-14-03](https://github.com/user-attachments/assets/d84b0e76-c1b6-4533-b3eb-ef680ba46eff)
 
 &nbsp;
 
