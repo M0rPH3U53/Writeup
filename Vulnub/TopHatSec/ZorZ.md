@@ -40,7 +40,7 @@ by M0rPH3U53
 
 Le serveur est un `uploader` de fichier
 
-![Capture du 2025-03-16 17-27-58.png](../../_resources/Capture%20du%202025-03-16%2017-27-58.png)
+![Capture du 2025-03-16 17-27-58](https://github.com/user-attachments/assets/690207a6-602d-46b7-9ec6-c231491a6990)
 
 &nbsp;
 
