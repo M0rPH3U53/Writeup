@@ -104,11 +104,3 @@ Identifiant trouver
 | Users | Password |
 | --- | --- |
 | user | toor2600root |
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
