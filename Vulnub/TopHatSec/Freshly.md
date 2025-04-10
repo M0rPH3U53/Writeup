@@ -1,3 +1,5 @@
+# Freshly
+
 1.Énumération
 
 **<span style="color: #dddddd;">👁️</span> Massap**
@@ -217,7 +219,8 @@ Progress Time: 00:00:03 <                                                       
 
 Avec les identifiant trouver précédemment j’ai pu injecter une `webshell` dans le code source de `404.php`
 
-![Capture du 2025-03-16 15-43-57.png](../../_resources/Capture%20du%202025-03-16%2015-43-57.png)
+![Capture du 2025-03-16 15-43-57](https://github.com/user-attachments/assets/0cbfaedc-d454-4ffd-9186-ad2e12b06c7f)
+
 
 &nbsp;
 
