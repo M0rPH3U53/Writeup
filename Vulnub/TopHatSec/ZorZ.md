@@ -5,7 +5,7 @@
 **<span style="color: #dddddd;">👁️</span> Massap**
 
 ```
-┌─[m0rph3u53@parrot]─[~/Documents]
+┌─[m0rph3u5@parrot]─[~/Documents]
 └──╼ $sudo sh massap.sh
 
    *                                
@@ -32,7 +32,7 @@ by M0rPH3U53
 ==========================================================
 |                         Rapports                       |
 ==========================================================
-| Nmap:/home/parrot/Massap/192.168.56.165-tcp.html       |
+| Nmap:/home/m0rph3u5/Massap/192.168.56.165-tcp.html       |
 ==========================================================
 ```
 
@@ -89,7 +89,7 @@ user:x:1000:1000:user,,,:/home/user:/bin/bash
 Test du mot de passe sur les 2 utilisateurs
 
 ```
-┌─[m0rph3u53@parrot]─[~/Documents]
+┌─[m0rph3u5@parrot]─[~/Documents]
 └──╼ $nxc ssh 192.168.56.165 -u user.txt -p 'toor2600root' --sudo-check
 SSH         192.168.56.165  22     192.168.56.165   [*] SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2
 SSH         192.168.56.165  22     192.168.56.165   [-] root:toor2600root
