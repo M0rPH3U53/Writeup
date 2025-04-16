@@ -67,7 +67,7 @@ rhosts => 192.168.56.196
 Élévation de privilege avec linpeas
 
 ```
-www-data@droopy:/tmp$ ./linpeas.sh
+www-data@droopy:/tmp$ sh linpeas.sh
 
 ╔══════════╣ Executing Linux Exploit Suggester
 ╚ 
