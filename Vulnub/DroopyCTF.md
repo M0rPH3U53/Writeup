@@ -37,7 +37,7 @@ by M0rPH3U53
 
 &nbsp;
 
-**Rapport Nmap**
+**<span style="color: #dddddd;">📑</span>Rapport Nmap**
 
 ![Capture du 2025-04-16 13-19-43](https://github.com/user-attachments/assets/8afe7517-8e8c-48fb-b43d-000d0371ffc5)
 
