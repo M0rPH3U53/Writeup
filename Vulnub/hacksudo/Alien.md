@@ -138,7 +138,8 @@ find $find_backup_name -mtime +$days -type f -delete
 
 Dump des hash utilisateur de `mysql` avec les cred trouver précédemment
 
-![dtatabase.png](../../_resources/dtatabase.png)
+![dtatabase](https://github.com/user-attachments/assets/a3a57609-3a14-4d6e-ae76-63b4198481af)
+
 
 &nbsp;
 
@@ -176,7 +177,8 @@ You can write SUID file: /home/hacksudo/Downloads/cpulimit
 
 Linpeas nous a indiquer précédemment qu’avec le binaire `cpuilimit` nous pouvons être `root`
 
-![Capture du 2025-04-21 18-33-29.png](../../_resources/Capture%20du%202025-04-21%2018-33-29.png)
+![Capture du 2025-04-21 18-33-29](https://github.com/user-attachments/assets/f9be9e6a-7de1-46e9-a9bf-47448d5249a7)
+
 
 &nbsp;
 
