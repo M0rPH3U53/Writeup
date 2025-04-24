@@ -91,7 +91,7 @@ Allons sur `gtfobin` pour voir si avec `apt-get` nous pouvons être `root`
 
 &nbsp;
 
-💀**APT-GET**
+💀 **APT-GET**
 
 Elevation de privilege avec `apt-get`
 
