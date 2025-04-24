@@ -42,7 +42,7 @@ by M0rPH3U53
 
 Sur le port 80 il y a un serveur web , avec une page d’authentification , les cred sont dans le code source de la page, ensuite une liste de challenge s’affiche, j’ai cliquer sur le 1 ieme
 
-![Capture du 2025-04-18 22-28-55](https://github.com/user-attachments/assets/24f136a9-5673-47f3-be86-a7c1a79f64f1)
+
 
 
 &nbsp;
