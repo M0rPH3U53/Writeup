@@ -38,7 +38,7 @@ by M0rPH3U53
 
 &nbsp;
 
-**Serveur Web**
+
 
 Sur le port 80 il y a un serveur web , avec une page d’authentification , les cred sont dans le code source de la page, ensuite une liste de challenge s’affiche, j’ai cliquer sur le 1 ieme
 
@@ -91,7 +91,7 @@ Allons sur `gtfobin` pour voir si avec `apt-get` nous pouvons être `root`
 
 &nbsp;
 
-&nbsp;**APT-GET**
+💀**APT-GET**
 
 Elevation de privilege avec `apt-get`
 
