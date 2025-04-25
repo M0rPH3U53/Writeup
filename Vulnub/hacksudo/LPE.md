@@ -1,3 +1,4 @@
+# LPE
 1.Énumération
 
 **<span style="color: #dddddd;">👁️</span> Massap**
@@ -37,11 +38,12 @@ by M0rPH3U53
 
 &nbsp;
 
-**Serveur Web**
+🌍 **Serveur Web**
 
 Sur le port 80 il y a un serveur web , avec une page d’authentification , les cred sont dans le code source de la page, ensuite une liste de challenge s’affiche, j’ai cliquer sur le 1 ieme
 
-![Capture du 2025-04-24 20-40-16.png](../../_resources/Capture%20du%202025-04-24%2020-40-16.png)
+![Capture du 2025-04-24 20-40-16](https://github.com/user-attachments/assets/39693693-0ff3-466c-b5d0-69270e053573)
+
 
 &nbsp;
 
@@ -85,11 +87,11 @@ User user1 may run the following commands on hacksudoLPE:
 
 Allons sur `gtfobin` pour voir si avec `apt-get` nous pouvons être `root`
 
-![Capture du 2025-04-18 22-34-34.png](../../_resources/Capture%20du%202025-04-18%2022-34-34.png)
+![Capture du 2025-04-18 22-34-34](https://github.com/user-attachments/assets/aa9e459a-451d-4d49-9fd1-01378c5b3fbe)
 
 &nbsp;
 
-&nbsp;**APT-GET**
+💀 **APT-GET**
 
 Elevation de privilege avec `apt-get`
 
