@@ -38,7 +38,7 @@ by M0rPH3U53
 
 &nbsp;
 
-👽 Nikto
+👽 **Nikto**
 
 Recherche des identifiants `tomcat`
 
