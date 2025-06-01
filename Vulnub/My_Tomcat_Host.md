@@ -153,7 +153,7 @@ bash -i
 
 &nbsp;
 
-**<span style="color: #dddddd;">👾</span>** LaZagne
+<span style="color: #dddddd;">👾</span> **LaZagne**
 
 Exécution
 
