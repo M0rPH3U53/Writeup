@@ -16,6 +16,9 @@ SMB         192.168.56.11   445    WINTERFELL       [*] Windows 10 / Server 2019
 SMB         192.168.56.10   445    KINGSLANDING     [*] Windows 10 / Server 2019 Build 17763 x64 (name:KINGSLANDING) (domain:sevenkingdoms.local) (signing:True) (SMBv1:False)
 
 ```
+
+&nbsp;
+
 Enumeratin des utilisateurs
 
 ```
@@ -40,6 +43,8 @@ SMB         192.168.56.11   445    WINTERFELL       sql_svc                     
 SMB         192.168.56.11   445    WINTERFELL       [*] Enumerated 10 local users: NORTH
 
 ```
+
+&nbsp;
 
 Test du mot de passe trouver dans la description du compte `Samwell Tarly`
 
