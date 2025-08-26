@@ -99,7 +99,7 @@ verbose => true
 &nbsp;
 
 <span style="color: #dddddd;">🤖</span> **Linpeas**
-
+Cherhons une des vulns
 ```
 daemon@webserver:/tmp$ sh linpeas.sh
 
