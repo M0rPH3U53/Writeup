@@ -100,7 +100,8 @@ verbose => true
 
 <span style="color: #dddddd;">🤖</span> **Linpeas**
 
-Cherhons une des vulns
+Recherche de vulnérabilité pour devenir root
+
 ```
 daemon@webserver:/tmp$ sh linpeas.sh
 
