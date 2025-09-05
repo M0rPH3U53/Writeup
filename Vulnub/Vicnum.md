@@ -22,8 +22,8 @@ by M0rPH3U53
 [i] Scan IP: 192.168.56.99
 [i] Rate: 1000
  
-[+] Scan Masscan 192.168.56.99...100%
-[+] Scan Nmap 192.168.56.99...100%
+🔥 Masscan 192.168.56.99...100%
+👁️ Nmap 192.168.56.99...100%
  
 [+] 80/tcp open
 [+] 22/tcp open
@@ -61,21 +61,17 @@ __________________________________________________________________/\\\__________
 [i] Scan IP: 192.168.56.99
 [i] Nom du scan: Vicnum
  
-[+] Scan Nuclei 192.168.56.99...100%
-[+] Scan Nikto 192.168.56.99...100%
-[+] Scan Wapiti 192.168.56.99...100%
-[+] Scan Skipfish 192.168.56.99...100%
-[+] Scan ZAP 192.168.56.99...100%
+⚛️ Nuclei 192.168.56.99...100%
+👽 Nikto 192.168.56.99...100%
+🐂 Wapiti 192.168.56.99...100%
+🐟 Scan Skipfish 192.168.56.99...100%
+⚡ ZAP 192.168.56.99...100%
  
-================================================================
-|                            Rapports                          |
-================================================================
-| Nuclei:/home/parrot/metaWeb/Vicnum/nuclei/Vicnum-rapport.txt |
-| Nikto:/home/parrot/metaWeb/Vicnum/nikto/Vicnum-rapport.html  |
-| Wapiti:/home/parrot/metaWeb/Vicnum/wapiti/Vicnum-rapport.txt |
-| Skipfish:/home/parrot/metaWeb/Vicnum/skipfish/index.html     |
-| ZAP:/home/parrot/metaWeb/Vicnum/ZAP/Vicnum-rapport.html      |
-================================================================
+=====================================
+|               📑 Rapports         |
+=====================================
+| /home/parrot/metaWeb/Vicnum/      |
+=====================================
 ```
 
 &nbsp;
