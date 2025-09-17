@@ -1,3 +1,5 @@
+# Social Network
+
 1.Énumération
 
 **<span style="color: #dddddd;">👁️</span> Massap**
@@ -39,7 +41,7 @@ by M0rPH3U53
 
 Le serveur hébergeait un genre de réseau sociaux , je me suis inscrit , et j’ai pu constater dans la parti post que l’on pouvais uploads une image , j’ai mis une `webshell`
 
-**<span style="color: #dddddd;">![Capture du 2025-03-06 19-39-30.png](../../_resources/Capture%20du%202025-03-06%2019-39-30.png)</span>**
+<img width="1097" height="800" alt="Capture du 2025-03-06 19-39-30" src="https://github.com/user-attachments/assets/5631ac9d-3d18-43cf-98b9-be669819d543" />
 
 &nbsp;
 
