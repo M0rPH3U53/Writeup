@@ -1,3 +1,4 @@
+# OWASP Broken Web Apps
 1.Énumération
 
 **<span style="color: #dddddd;">👁️</span> Massap**
@@ -68,7 +69,8 @@ Essayons de trouver les identifiants du `Tomcat`
 
 Cred tomcat tester sur `phpmyadmin`
 
-![Capture du 2025-01-16 21-17-50.png](../../_resources/Capture%20du%202025-01-16%2021-17-50.png)
+<img width="1021" height="900" alt="Capture du 2025-01-16 21-17-50" src="https://github.com/user-attachments/assets/329502b3-25b4-4fe8-9e91-02f7d993cd38" />
+
 
 &nbsp;
 
