@@ -1,3 +1,5 @@
+# Hackable
+
 1.Énumération
 
 **<span style="color: #dddddd;">👁️</span> Massap**
@@ -150,7 +152,8 @@ echo '⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀ ⣀⣀⣤⣤⣤⣀⡀
 
 Crack du hash `MD5` trouver
 
-![Capture du 2025-02-10 21-17-53.png](../../_resources/Capture%20du%202025-02-10%2021-17-53.png)
+<img width="972" height="717" alt="Capture du 2025-02-10 21-17-53" src="https://github.com/user-attachments/assets/f969a99e-ae3d-420d-aef6-4b8c0a04d8a3" />
+
 
 &nbsp;
 
@@ -182,7 +185,8 @@ User shrek may run the following commands on ubuntu:
 
 Allons voir sur `GTFObins` si python peut nous être utiles
 
-&nbsp;![Capture du 2025-02-10 21-35-46.png](../../_resources/Capture%20du%202025-02-10%2021-35-46.png)
+<img width="957" height="383" alt="Capture du 2025-02-10 21-35-46" src="https://github.com/user-attachments/assets/845896a0-c521-47f9-8cde-1eca8b4bcc09" />
+
 
 &nbsp;
 
