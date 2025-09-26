@@ -1,4 +1,4 @@
-\# InfoSec Prep: OSCP
+# InfoSec Prep: OSCP
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
