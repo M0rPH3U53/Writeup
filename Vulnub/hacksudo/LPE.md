@@ -151,7 +151,7 @@ root@hacksudoLPE:/home/user1#
 
 **<span style="color: #dddddd;">👾</span> LaZagne**
 
-63 utilisateurs trouvers
+`63` utilisateurs trouvers
 
 ```
 root@hacksudoLPE:/home/user1/LaZagne-2.4.6/Linux# python3 laZagne.py all
