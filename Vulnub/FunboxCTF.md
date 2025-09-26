@@ -128,7 +128,7 @@ www-data@funbox4:/tmp$ sh linpeas.sh
 
 &nbsp;
 
-**<span style="color: #dddddd;">💀</span> Exploit Pwnkit**
+**<span style="color: #dddddd;">💀</span> Pwnkit**
 
 Test de l’exploit d’élévation de privilège
 
