@@ -151,7 +151,7 @@ root@hacksudoLPE:/home/user1#
 
 **<span style="color: #dddddd;">👾</span> LaZagne**
 
-En vue du trop grand nombre d’user qui est de  `63` , je ne les crackerais pas cette fois ci.
+63 utilisateurs trouvers
 
 ```
 root@hacksudoLPE:/home/user1/LaZagne-2.4.6/Linux# python3 laZagne.py all
