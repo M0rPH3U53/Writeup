@@ -1,4 +1,4 @@
-\# Funbox : CTF
+# Funbox : CTF
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
