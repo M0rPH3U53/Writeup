@@ -1,4 +1,4 @@
-\# HackathonCTF
+# HackathonCTF
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
