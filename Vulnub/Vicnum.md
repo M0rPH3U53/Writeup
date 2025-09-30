@@ -80,8 +80,8 @@ __________________________________________________________________/\\\__________
 **<span style="color: #dddddd;">📑</span> Rapport Wapiti**
 
 ```
-┌─[parrot@parrot]─[~/Documents]
-└──╼ $cat metaWeb/Vicnum/wapiti/Vicnum-rapport.txt
+┌─[parrot@parrot]─[~/metaWeb]
+└──╼ $cat Vicnum/wapiti/Vicnum-rapport.txt
 ********************************************************************************
                      Wapiti 3.0.4 - wapiti.sourceforge.io
                       Rapport pour http://192.168.56.99/
