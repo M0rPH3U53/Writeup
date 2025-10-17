@@ -1,4 +1,4 @@
-\# Boverflow
+# Boverflow
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
@@ -74,7 +74,7 @@ Finished
 
 Un serveur GLPI qui tourne avec une version datant de 2020 ( en bas a droite )
 
-![Capture du 2025-09-24 12-50-15.png](../../_resources/Capture%20du%202025-09-24%2012-50-15.png)
+<img width="935" height="834" alt="Capture du 2025-09-24 12-50-15" src="https://github.com/user-attachments/assets/89aa552d-40f8-4248-adaf-5a9a28a631ce" />
 
 &nbsp;
 
