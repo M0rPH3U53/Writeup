@@ -1,4 +1,4 @@
-\# Bob
+# Bob
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
@@ -87,7 +87,8 @@ Listening on 0.0.0.0 4444
 
 Injection de commande via `dev_shell.php`
 
-![Capture du 2025-09-24 20-27-47.png](../../_resources/Capture%20du%202025-09-24%2020-27-47.png)
+<img width="977" height="642" alt="Capture du 2025-09-24 20-27-47" src="https://github.com/user-attachments/assets/bd5d9aac-a285-413e-ae41-98df00edca45" />
+
 
 &nbsp;
 
