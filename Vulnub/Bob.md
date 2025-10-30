@@ -140,7 +140,7 @@ root@Milburg-High:/tmp/fullEx#
 Recherche d’identifiant sur la machine
 
 ```
-root@Milburg-High:/tmp/fullEx# /fullEx.sh -LaZagne
+root@Milburg-High:/tmp/fullEx# ./fullEx.sh -LaZagne
 ./fullEx.sh -LaZagne
 
 |====================================================================|
