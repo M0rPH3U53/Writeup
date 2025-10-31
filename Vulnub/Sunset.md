@@ -124,7 +124,7 @@ User sunset may run the following commands on sunset:
 
 &nbsp;
 
-<span style="color: #dddddd;">⚙️</span> GTFobin
+<span style="color: #dddddd;">⚙️</span> **GTFobin**
 
 https://gtfobins.github.io/gtfobins/ed/#sudo
 
