@@ -3,8 +3,8 @@
 **<span style="color: #dddddd;">👁️</span> Massap**
 
 ```
-┌─[m0rph3u5@parrot]─[~/Documents]
-└──╼ $sudo ./massap.sh
+┌─[m0rph3u5@parrot]─[~]
+└──╼ $sudo massap.sh
 
    *                                
  (  `                               
