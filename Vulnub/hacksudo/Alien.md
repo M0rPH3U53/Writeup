@@ -167,8 +167,6 @@ Voyons ce qu’on trouve d’intéressant
 ╚ https://book.hacktricks.xyz/linux-hardening/privilege-escalation#sudo-and-suid
 strace Not Found
 You can write SUID file: /home/hacksudo/Downloads/cpulimit
-
-
 ```
 
 &nbsp;
