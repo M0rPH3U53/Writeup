@@ -1,4 +1,4 @@
-# Secarmy Village: Grayhat Conference
+# Secarmy Village: Grayhat Conference
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
