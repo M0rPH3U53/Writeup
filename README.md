@@ -1,3 +1,3 @@
-# 🚩 Writeup
+# Writeup
 
-CTF
+🚩 CTF
