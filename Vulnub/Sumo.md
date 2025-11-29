@@ -1,4 +1,4 @@
-\# Sumo
+# Sumo
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
