@@ -1,4 +1,4 @@
-\# Escalate_My_Privilege
+# Escalate_My_Privilege
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
@@ -84,7 +84,7 @@ Disallow: /phpbash.php
 
 &nbsp;
 
-![Capture du 2025-09-25 19-56-09.png](../../_resources/Capture%20du%202025-09-25%2019-56-09.png)
+<img width="976" height="638" alt="Capture du 2025-09-25 19-56-09" src="https://github.com/user-attachments/assets/de655ce2-13c8-43cc-b0fa-bc7bf50b5d98" />
 
 Reverse shell utiliser
 
