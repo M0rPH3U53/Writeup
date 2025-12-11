@@ -81,7 +81,8 @@ j `ux
 
 <span style="color: #dddddd;">Apres avoir mis la photo sur google j’ai pu récupéré le nom du monument qui se trouve dessus</span>
 
-<span style="color: #dddddd;">![Capture du 2025-09-25 12-57-17.png](../../_resources/Capture%20du%202025-09-25%2012-57-17.png)</span>
+<span style="color: #dddddd;"><<img width="538" height="117" alt="Capture du 2025-09-25 12-57-17" src="https://github.com/user-attachments/assets/4478132c-edf4-4c8d-a644-78e155ec7c3f" />
+/span>
 
 &nbsp;
 
