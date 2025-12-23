@@ -1,4 +1,4 @@
-<span style="color: #dddddd;">\# VulnCMS</span>
+<span style="color: #dddddd;"># VulnCMS</span>
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
@@ -42,8 +42,8 @@ by M0rPH3U53
 **📑 Rapport nmap**
 
 Vulnérabilité potentiel de `Drupal v7` sur le port 9001
+<img width="379" height="171" alt="drupal-7" src="https://github.com/user-attachments/assets/d2ff168c-51fc-4d1f-a9ba-5328b4854ea6" />
 
-![drupal-7.png](../../_resources/drupal-7.png)
 
 &nbsp;
 
