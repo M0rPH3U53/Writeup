@@ -1,4 +1,4 @@
-<span style="color: #dddddd;"># VulnCMS</span>
+# VulnCMS
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
