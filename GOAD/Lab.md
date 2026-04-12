@@ -330,7 +330,7 @@ SMB         192.168.56.23   445    BRAAVOS          [+] essos.local\Administrato
 
 &nbsp;
 
-Dump des identification DPAPI
+Dump des identifiants DPAPI
 
 ```
 ┌─[m0rph3u5@parrot]─[~/Documents]
