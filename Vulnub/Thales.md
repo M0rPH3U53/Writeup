@@ -1,5 +1,4 @@
 # Thales
-1.Énumération
 
 👁️ **Massap**
 
