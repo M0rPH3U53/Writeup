@@ -45,8 +45,6 @@ Brute force avec une wordlist d’utilisateur et mot de passe par défaut
 
 &nbsp;
 
-<ins>2.Exploitation</ins>
-
 **<span style="color: #dddddd;"><span style="color: #dddddd;">👻</span></span> MSFvenom**
 
 Création d’un `reverse shell` en java
