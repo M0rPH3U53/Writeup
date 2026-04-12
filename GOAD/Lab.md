@@ -1,4 +1,4 @@
-## GOAD-full
+# GOAD-full
 
 Énumération
 
