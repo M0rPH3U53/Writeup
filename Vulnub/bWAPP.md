@@ -348,7 +348,7 @@ bee:bug:15792:0:99999:7:::
 
 &nbsp;
 
-Cred trouver
+**💯 Identifiants**
 
 | User | Password |
 | --- | --- |
