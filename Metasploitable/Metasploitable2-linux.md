@@ -147,6 +147,5 @@ service:service:14715:0:99999:7:::
 | root | root |
 | postgres | postgres |
 | sys | batman |
-| msfadmin | msfadmin |
 | user | user |
 | klog | 123456789 |
