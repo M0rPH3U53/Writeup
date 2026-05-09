@@ -112,7 +112,7 @@ Crack des hash utilisateurs
 Warning: detected hash type "md5crypt", but the string is also recognized as "md5crypt-long"
 Use the "--format=md5crypt-long" option to force loading these as that type instead
 Using default input encoding: UTF-8
-Loaded 6 password hashes with 2 different salts (md5crypt, crypt(3) $1$ (and variants) [MD5 256/256 AVX2 8x3])
+Loaded 5 password hashes with 5 different salts (md5crypt, crypt(3) $1$ (and variants) [MD5 256/256 AVX2 8x3])
 Remaining 5 password hash
 Will run 4 OpenMP threads
 Proceeding with single, rules:Single
