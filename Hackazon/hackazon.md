@@ -6,7 +6,7 @@
 
 ```
 ┌─[parrot@parrot]─[~/Documents]
-└──╼ $sudo sh massap.sh
+└──╼ $sudo ./massap.sh
 
    *                                
  (  `                               
