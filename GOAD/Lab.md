@@ -369,7 +369,7 @@ SMB         192.168.56.10   445    KINGSLANDING     [-] sevenkingdoms.local\edda
 
 Les 5 serveurs ont été compromis via des attaque par mouvement latéral
 
-| Users:password | Admin | Serveur | IP  | Domaine |
+| Users:password/hash | Admin | Serveur | IP  | Domaine |
 | --- | --- | --- | --- | --- |
 | vagrant:e02bc503339d51f71d913c245d35b50b | <span style="color: #dddddd;">✅</span> | KINGSLANDING | 192.168.56.10 | sevenkingdoms.local |
 | robb.stark:sexywolfy | <span style="color: #dddddd;">✅</span> | WINTERFELL | 192.168.56.11 | north.sevenkingdoms.local |
