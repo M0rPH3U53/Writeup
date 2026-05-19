@@ -2,7 +2,7 @@
 
 <span style="color: #dddddd;">🖥️</span> **rNET**
 
-Déecouverte d'hotes
+Découverte d'hotes
 
 ```
 ┌─[m0rph3u5@parrot]─[~/Scripts]
