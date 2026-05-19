@@ -2,6 +2,8 @@
 
 <span style="color: #dddddd;">🖥️</span> **rNET**
 
+Déecouverte d'hotes
+
 ```
 ┌─[m0rph3u5@parrot]─[~/Scripts]
 └──╼ $sudo ./rNET.sh 
