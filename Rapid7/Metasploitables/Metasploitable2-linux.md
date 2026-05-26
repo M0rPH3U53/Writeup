@@ -68,7 +68,8 @@ by M0rPH3U53
 
 Un port identifier qui nous donne un shell root
 
-![db93f2e00aead0cf08a09c367b155c95.png](../../_resources/db93f2e00aead0cf08a09c367b155c95.png)
+<img width="886" height="22" alt="db93f2e00aead0cf08a09c367b155c95" src="https://github.com/user-attachments/assets/5b97bf34-9170-4cac-9dbd-af1401be6cca" />
+
 
 **<span style="color: #dddddd;">🐾</span> nc**
 
