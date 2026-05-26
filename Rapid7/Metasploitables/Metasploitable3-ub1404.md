@@ -270,32 +270,8 @@ Welcome to Ubuntu 14.04.6 LTS (GNU/Linux 3.13.0-170-generic x86_64)
 Last login: Fri Jan 10 12:10:06 2025 from 192.168.56.104
 leia_organa@metasploitable3-ub1404:~$ sudo -s
 [sudo] password for leia_organa: 
-root@metasploitable3-ub1404:~# cat /etc/shadow
-root:!:18564:0:99999:7:::
-daemon:*:16176:0:99999:7:::
-bin:*:16176:0:99999:7:::
-sys:*:16176:0:99999:7:::
-sync:*:16176:0:99999:7:::
-games:*:16176:0:99999:7:::
-man:*:16176:0:99999:7:::
-lp:*:16176:0:99999:7:::
-mail:*:16176:0:99999:7:::
-news:*:16176:0:99999:7:::
-uucp:*:16176:0:99999:7:::
-proxy:*:16176:0:99999:7:::
-www-data:*:16176:0:99999:7:::
-backup:*:16176:0:99999:7:::
-list:*:16176:0:99999:7:::
-irc:*:16176:0:99999:7:::
-gnats:*:16176:0:99999:7:::
-nobody:*:16176:0:99999:7:::
-libuuid:!:16176:0:99999:7:::
-syslog:*:16176:0:99999:7:::
-messagebus:*:18564:0:99999:7:::
-sshd:*:18564:0:99999:7:::
-statd:*:18564:0:99999:7:::
+root@metasploitable3-ub1404:~# cat /etc/shadow | grep '$1'
 vagrant:$6$NABMNgxO$T2lvEhArjOImjvROySq8vka/r8MWhhzNgT3Z5FS1LcPS5D325ESK5LjFJymb2jo/m4NmDg8aEl0TWWI3la.Y3/:18564:0:99999:7:::
-dirmngr:*:18564:0:99999:7:::
 leia_organa:$1$N6DIbGGZ$LpERCRfi8IXlNebhQuYLK/:18564:0:99999:7:::
 luke_skywalker:$1$/7D55Ozb$Y/aKb.UNrDS2w7nZVq.Ll/:18564:0:99999:7:::
 han_solo:$1$6jIF3qTC$7jEXfQsNENuWYeO6cK7m1.:18564:0:99999:7:::
@@ -311,10 +287,6 @@ jabba_hutt:$1$9rpNcs3v$//v2ltj5MYhfUOHYVAzjD/:18564:0:99999:7:::
 greedo:$1$vOU.f3Tj$tsgBZJbBS4JwtchsRUW0a1:18564:0:99999:7:::
 chewbacca:$1$.qt4t8zH$RdKbdafuqc7rYiDXSoQCI.:18564:0:99999:7:::
 kylo_ren:$1$rpvxsssI$hOBC/qL92d0GgmD/uSELx.:18564:0:99999:7:::
-mysql:!:18564:0:99999:7:::
-avahi:*:18564:0:99999:7:::
-colord:*:18564:0:99999:7:::
-
 ```
 
 &nbsp;
