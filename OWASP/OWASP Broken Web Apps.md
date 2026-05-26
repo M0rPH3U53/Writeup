@@ -1,10 +1,10 @@
-1.Énumération
+# Broken Web Apps
 
 **<span style="color: #dddddd;">👁️</span> Massap**
 
 ```
 ┌─[m0rph3u5@parrot]─[~/Documents]
-└──╼ $sudo sh massap.sh
+└──╼ $sudo ./massap.sh
 
    *                                
  (  `                               
@@ -21,8 +21,8 @@ by M0rPH3U53
 [i] Scan IP: 192.168.56.51
 [i] Rate: 1000
  
-[+] Scan Masscan 192.168.56.51...100%
-[+] Scan Nmap 192.168.56.51...100%
+[+] Masscan 192.168.56.51...100%
+[+] Nmap 192.168.56.51...100%
 
 [+] 22/tcp open
 [+] 80/tcp open
