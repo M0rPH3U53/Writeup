@@ -68,7 +68,7 @@ Essayons de trouver les identifiants du `Tomcat`
 
 Cred tomcat tester sur `phpmyadmin`
 
-![Capture du 2025-01-16 21-17-50.png](../../_resources/Capture%20du%202025-01-16%2021-17-50.png)
+<img width="1021" height="900" alt="Capture du 2025-01-16 21-17-50" src="https://github.com/user-attachments/assets/dadc8e90-d1d9-4178-8359-9ae025b62d1a" />
 
 &nbsp;
 
