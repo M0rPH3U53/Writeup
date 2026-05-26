@@ -44,8 +44,6 @@ Traverser de chemin
 
 <img width="966" height="743" alt="path_traversal" src="https://github.com/user-attachments/assets/9a830634-dce3-4295-af00-990f55f8fff0" />
 
-<img width="603" height="425" alt="injection_commande" src="https://github.com/user-attachments/assets/30e23814-db38-4e8a-b3a1-b067d5e7e7ce" />
-
 
 &nbsp;
 
@@ -53,7 +51,7 @@ Allons voir le fichier `db.php`
 
 [http://192.168.56.75/account/documents?page=…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F…%2F /var/www/hackazon/assets/config/db.php](http://192.168.56.75/account/documents?page=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F%20/var/www/hackazon/assets/config/db.php)
 
-![injection_commande.png](../../_resources/injection_commande.png)
+<img width="603" height="425" alt="injection_commande" src="https://github.com/user-attachments/assets/30e23814-db38-4e8a-b3a1-b067d5e7e7ce" />
 
 &nbsp;
 
