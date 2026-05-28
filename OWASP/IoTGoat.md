@@ -74,8 +74,7 @@ by M0rPH3U53
 **📑 Rapport**
 
 Un port identifier qui nous donne un shell (sans authentification)
-
-![51d5857b8dcfef31cf598508d6d59875.png](../../_resources/51d5857b8dcfef31cf598508d6d59875.png)
+<img width="765" height="62" alt="51d5857b8dcfef31cf598508d6d59875" src="https://github.com/user-attachments/assets/739bb567-9dfa-475b-ae92-a9331866ea8f" />
 
 &nbsp;
 
