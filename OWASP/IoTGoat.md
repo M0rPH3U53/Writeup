@@ -7,7 +7,6 @@ Découverte d’hotes
 ```
 ┌──[m0rph3u5@parrot]─[~/Scripts]
 └──╼ $sudo ./rNET.sh
-[sudo] Mot de passe de m0rph3u5 : 
                                                
 ░       ░░░   ░░░  ░░        ░░        ░
 ▒  ▒▒▒▒  ▒▒    ▒▒  ▒▒  ▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒
