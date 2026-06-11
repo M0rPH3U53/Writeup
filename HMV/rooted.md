@@ -1,4 +1,4 @@
-# rootDesc
+# rooted
 
 🖥️ **rNET**
 
@@ -111,7 +111,7 @@ by M0rPH3U53
 
 &nbsp;
 
-![xml-fichier.png](../../_resources/xml-fichier.png)
+<img width="816" height="933" alt="xml-fichier" src="https://github.com/user-attachments/assets/fd01ebda-bfa3-44db-8b77-688e8b4b1b43" />
 
 &nbsp;
 
