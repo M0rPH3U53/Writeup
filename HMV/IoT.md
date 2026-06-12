@@ -86,7 +86,7 @@ ssh/login redteam:Pentest123!
 ```
 redteam@iot:~/fullEx$ ./fullEx.sh -DirtyFrag
 # bash -i
-root@iot:/home/me/fullEx#
+root@iot:/home/redteam/fullEx#
 ```
 
 &nbsp;
