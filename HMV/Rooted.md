@@ -59,6 +59,7 @@ by M0rPH3U53
 👁️ Nmap 192.168.56.254...100%
  
 [+] 22/tcp open
+[+] 8888/tcp open
  
 📄 Rapport --> /home/m0rph3u5/Massap
 ```
