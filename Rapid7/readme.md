@@ -1,1 +1,1 @@
-VM créé apr Rapid7
+VM Rapid7
