@@ -1,6 +1,6 @@
 # GOAD full
 
-LAB AD cree par orange
+LAB AD d'orange
 
 https://github.com/Orange-Cyberdefense/GOAD
 
