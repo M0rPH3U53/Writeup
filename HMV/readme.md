@@ -1,2 +1,2 @@
 # HVM
-Vm de https://hackmyvm.eu
+https://hackmyvm.eu
