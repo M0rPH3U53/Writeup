@@ -74,7 +74,6 @@ En s’abonnant a tout les topics nous avons trouvé un login
 ┌─[m0rph3u5@parrot]─[~]
 └──╼ $sudo mosquitto_sub -h 192.168.56.254 -t "#" -v
 ssh/login redteam:Pentest123!
-
 ```
 
 &nbsp;
