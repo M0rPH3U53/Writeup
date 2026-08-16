@@ -66,7 +66,7 @@ by M0rPH3U53
 
 &nbsp;
 
-**🕵️‍♀️ UPnP**
+## **🕵️‍♀️ UPnP**
 
 L’upnp est une mine d’info
 
@@ -86,7 +86,7 @@ Nmap done: 1 IP address (1 host up) scanned in 0.54 seconds
 
 &nbsp;
 
-**🤖 wUP**
+## **🤖 wUP**
 
 En regardant le fichier xml on a pu trouver un login
 
@@ -116,7 +116,7 @@ by M0rPH3U53
 
 &nbsp;
 
-**🛰️ fullEx**
+## **🛰️ fullEx**
 
 Élévation de privilège
 
@@ -144,7 +144,7 @@ strace Not Found
 
 &nbsp;
 
-#️⃣ **GTFobin - cpulimit**
+## #️⃣ **GTFobin - cpulimit**
 
 https://gtfobins.org/gtfobins/cpulimit/#shell
 
