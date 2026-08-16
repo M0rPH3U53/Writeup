@@ -35,7 +35,7 @@ by M0rPH3U53
 
 ## <span style="color: #dddddd;">⚡</span> **ZAP**
 
-Rapport après fin de scan
+Rapport
 
 <img width="1108" height="792" alt="Capture du 2025-02-09 18-32-13" src="https://github.com/user-attachments/assets/a52d2161-f939-43fd-a5ff-b9e951a5cabe" />
 
