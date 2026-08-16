@@ -1,6 +1,6 @@
 # GOAD-full
 
-**<span style="color: #dddddd;">🖥️</span> NetExec**
+## **<span style="color: #dddddd;">🖥️</span> NetExec**
 
 Énumération des machines
 
@@ -64,7 +64,7 @@ SMB         192.168.56.10   445    KINGSLANDING     [-] sevenkingdoms.local\samw
 
 &nbsp;
 
-**<span style="color: #dddddd;">🕵️</span> Responder**
+## **<span style="color: #dddddd;">🕵️</span> Responder**
 
 Ayant laisser tourner `responder` il a pu récupéré des hash
 
@@ -161,7 +161,7 @@ Ayant laisser tourner `responder` il a pu récupéré des hash
 
 &nbsp;
 
-**<span style="color: #dddddd;">🧨</span> JohnTheRipper**
+## **<span style="color: #dddddd;">🧨</span> JohnTheRipper**
 
 Crack des hash
 
@@ -185,7 +185,7 @@ robb.stark:sexywolfy:NORTH:8b8b444cabb35585:F06CA9237B7828C5C977F7AEEFA57656:010
 
 &nbsp;
 
-**<span style="color: #dddddd;">🖥️</span> NetExec**
+## **<span style="color: #dddddd;">🖥️</span> NetExec**
 
 Test du compte `robb.stark`
 
@@ -363,7 +363,7 @@ SMB         192.168.56.10   445    KINGSLANDING     [-] sevenkingdoms.local\edda
 
 &nbsp;
 
-**<span style="color: #dddddd;">📝</span> Synthèse**
+## **<span style="color: #dddddd;">📋</span> Synthèse**
 
 Les 5 serveurs ont été compromis via des attaque par mouvement latéral
 
