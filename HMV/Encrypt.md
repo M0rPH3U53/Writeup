@@ -1,6 +1,6 @@
 # Encrypt
 
-🖥️ **rNET**
+## 🖥️ **rNET**
 
 Découverte d’hotes
 
@@ -34,7 +34,7 @@ by M0rPH3U53
 
 &nbsp;
 
-<span style="color: #dddddd;">👁️</span> **Massap**
+## <span style="color: #dddddd;">👁️</span> **Massap**
 
 ```
 ┌─[m0rph3u5@parrot]─[~/Documents]
@@ -66,7 +66,7 @@ by M0rPH3U53
 
 &nbsp;
 
-**🔐 mET**
+## **🔐 mET**
 
 Recuperation des info du certificat
 
@@ -138,7 +138,7 @@ Login trouvé
 
 &nbsp;
 
-**🛰️ fullEx**
+## **🛰️ fullEx**
 
 Élévation de privilège
 
@@ -155,7 +155,7 @@ Files with capabilities (limited to 50):
 
 &nbsp;
 
-#️⃣ **GTFobin - ruby**
+## #️⃣ **GTFobin - ruby**
 
 **[https://gtfobins.org/gtfobins/ruby/#shell](https://gtfobins.org/gtfobins/python/#shell)**
 
