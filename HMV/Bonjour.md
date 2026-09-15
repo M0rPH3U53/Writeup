@@ -61,8 +61,6 @@ by M0rPH3U53
 📄 Rapport --> /home/m0rph3u5/Massap
 ```
 
-&nbsp;
-
 ## **🔥 Nmap**
 
 Scan UDP
@@ -80,8 +78,6 @@ MAC Address: 08:00:27:70:1D:9E (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
 
 Nmap done: 1 IP address (1 host up) scanned in 0.54 seconds
 ```
-
-&nbsp;
 
 ## 🦈 **SnAff**
 
@@ -110,8 +106,6 @@ by M0rPH3U53
 [+] Sauvegardé --> /home/m0rph3u5/Desktop/SnAff/SnAff.txt
 ```
 
-&nbsp;
-
 ## **🛰️ fullEx**
 
 Élévation de privilège
@@ -127,8 +121,6 @@ Files with capabilities (limited to 50):
 /usr/bin/python3.13 cap_setuid=ep
 
 ```
-
-&nbsp;
 
 ## #️⃣ **GTFobin - python**
 
