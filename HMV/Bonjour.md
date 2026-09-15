@@ -31,6 +31,7 @@ by M0rPH3U53
  
 [+] Total: 3
 ```
+&nbsp;
 
 ## <span style="color: #dddddd;">👁️</span> **Massap**
 
@@ -60,6 +61,7 @@ by M0rPH3U53
  
 📄 Rapport --> /home/m0rph3u5/Massap
 ```
+&nbsp;
 
 ## **🔥 Nmap**
 
@@ -78,6 +80,7 @@ MAC Address: 08:00:27:70:1D:9E (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
 
 Nmap done: 1 IP address (1 host up) scanned in 0.54 seconds
 ```
+&nbsp;
 
 ## 🦈 **SnAff**
 
@@ -105,6 +108,7 @@ by M0rPH3U53
  
 [+] Sauvegardé --> /home/m0rph3u5/Desktop/SnAff/SnAff.txt
 ```
+&nbsp;
 
 ## **🛰️ fullEx**
 
@@ -121,6 +125,7 @@ Files with capabilities (limited to 50):
 /usr/bin/python3.13 cap_setuid=ep
 
 ```
+&nbsp;
 
 ## #️⃣ **GTFobin - python**
 
@@ -133,5 +138,3 @@ uid=0(root) gid=1000(user) groupes=1000(user),24(cdrom),25(floppy),29(audio),30(
 # bash -i
 root@debian:~/fullEx# 
 ```
-
-&nbsp;
