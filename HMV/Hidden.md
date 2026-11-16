@@ -61,7 +61,7 @@ by M0rPH3U53
 [+] 22/tcp open
 [+] 51820/tcp open
  
-📄 Rapport --> /home/m0rph3u5/Massap
+📋 Rapport --> /home/m0rph3u5/Massap
 ```
 
 &nbsp;
