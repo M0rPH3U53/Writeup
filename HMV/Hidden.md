@@ -1,6 +1,6 @@
 # Hidden
 
-🖥️ **rNET**
+## 🖥️ **rNET**
 
 Découverte d’hotes
 
@@ -34,7 +34,7 @@ by M0rPH3U53
 
 &nbsp;
 
-<span style="color: #dddddd;">👁️</span> **Massap**
+## <span style="color: #dddddd;">👁️</span> **Massap**
 
 ```
 ┌─[m0rph3u5@parrot]─[~/Documents]
@@ -66,7 +66,7 @@ by M0rPH3U53
 
 &nbsp;
 
-**<span style="color: #dddddd;">🐾</span> nc**
+## **<span style="color: #dddddd;">🐾</span> nc**
 
 Connexion au port `51820`
 
@@ -79,7 +79,7 @@ hidden@cache:/$
 
 &nbsp;
 
-**🛰️ fullEx**
+## **🛰️ fullEx**
 
 Élévation de privilège
 
