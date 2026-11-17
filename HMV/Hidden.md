@@ -83,8 +83,6 @@ hidden@cache:/$
 
 Élévation de privilège
 
-**DirtyFrag**
-
 ```
 hidden@cache:~/fullEx$ ./fullEx.sh -DirtyFrag
 # bash -i
