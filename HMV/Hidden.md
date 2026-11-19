@@ -68,7 +68,7 @@ by M0rPH3U53
 
 ## **<span style="color: #dddddd;">🐾</span> nc**
 
-Connexion au port `51820`
+Port `51820` suspect
 
 ```
 ┌─[m0rph3u5@parrot]─[~]
