@@ -86,7 +86,7 @@ hidden@cache:/$
 ```
 hidden@cache:~/fullEx$ ./fullEx.sh -DirtyFrag
 # bash -i
-hidden@cache:/home/hidden/fullEx#
+root@cache:/home/hidden/fullEx#
 ```
 
 &nbsp;
